@@ -12,7 +12,9 @@
     margin: 0;
     padding: 0;
 }
-
+html {
+    scroll-behavior: smooth;
+}
 body {
     font-family: "Roboto", sans-serif;
     line-height: 1.6;
@@ -143,6 +145,9 @@ header .nav_right .menu_toggle {
     }
     header .nav_right ul li a:hover {
         color: var(--dark-color);
+    }
+    .product-card h3{
+        font-size: 18px;
     }
 }
 /* --- CÁC NÚT BẤM (BUTTON) --- */

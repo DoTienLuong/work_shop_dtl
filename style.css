@@ -149,6 +149,11 @@ header .nav_right .menu_toggle {
     .product-card h3{
         font-size: 18px;
     }
+
+    /* san pham */
+    #san-pham .container h2{
+        font-size: 1.7rem;
+    }
 }
 /* --- CÁC NÚT BẤM (BUTTON) --- */
 .btn {
@@ -331,6 +336,7 @@ section > .container {
 }
 
 .pricing-box .includes-list li {
+    font-size: 15px;
     margin-bottom: 12px;
     display: flex;
     align-items: center;
@@ -353,7 +359,7 @@ section > .container {
 
 .value-box .value-intro {
     text-align: center;
-    font-size: 1.1rem;
+    font-size: 1rem;
     color: #555;
     margin-bottom: 30px;
 }
@@ -379,7 +385,7 @@ section > .container {
 }
 
 .gift-item h4 {
-    font-size: 1rem;
+    font-size: 0.87rem;
     margin-bottom: 5px;
 }
 

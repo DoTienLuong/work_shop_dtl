@@ -154,6 +154,14 @@ header .nav_right .menu_toggle {
     #san-pham .container h2{
         font-size: 1.7rem;
     }
+    /* footer */
+    #lien-he{
+        padding: 10px 0;
+    }
+
+    #lien-he .container p{
+        font-size: 13px;
+    }
 }
 /* --- CÁC NÚT BẤM (BUTTON) --- */
 .btn {
